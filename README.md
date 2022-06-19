@@ -2,7 +2,7 @@
 
 Neste trabalho realizaremos a automação de testes estatísticos através de um Dashboard interativo construído com o pacote Shiny em linguagem R. 
 
-**************** ******************* Na prática, teremos uma aplicação web criada com o pacote Shiny*****************************************
+****** Na prática, teremos uma aplicação web criada com o pacote Shiny*****
 
 O objetivo deste trabalho é demonstrar o uso e interpretação de alguns importantes testes estatísticos (paramétricos e não paramétricos). Serão abordados 5 
 testes neste trabalho:
